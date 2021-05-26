@@ -9,4 +9,4 @@ end
   return counter 
 end
 
-current_player(board)
+#current_player(board)
