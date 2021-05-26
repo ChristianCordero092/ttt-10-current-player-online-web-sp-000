@@ -9,4 +9,5 @@ end
   return counter 
 end
 
-#current_player(board)
+def current_player(board)
+  
